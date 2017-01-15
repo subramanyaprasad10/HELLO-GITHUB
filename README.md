@@ -28,16 +28,12 @@ echo "Hello World"
 PRINT "Hello, world!"​
  
 4. C
-#include 
- 
 int main(void)
 {
     puts("Hello, world!");
 }
  
 5. C++
-#include 
- 
 int main()
 {
     std::cout << "Hello, world!
@@ -72,8 +68,6 @@ end.
  Hello World!
  
 11. Java
-import javax.swing.JFrame;  //Importing class JFrame
-import javax.swing.JLabel;  //Importing class JLabel
 public class HelloWorld {
     public static void main(String[] args) {
         JFrame frame = new JFrame();           //Creating frame
@@ -101,9 +95,6 @@ print [Hello, world!]
 disp('Hello, world!')
  
 17. Objective-C
-#import 
-#import 
- 
 int main(void)
 {
     NSLog(@"Hello, world!
@@ -121,8 +112,8 @@ end.
 print "Hello, world!
 ";
  
-20. PHP
-
+20. PHP 
+ echo "Hello world";
  
  
 21. Processing
